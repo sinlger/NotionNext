@@ -36,7 +36,7 @@ export default function PostCopyright() {
           <a
             className='whitespace-normal break-words hover:underline'
             href={path}>
-            {decodeURIComponent(path)}
+            {path}
           </a>
         </li>
         <li>
