@@ -114,6 +114,7 @@ const SEO = props => {
       <meta name='apple-mobile-web-app-capable' content='yes' />
       <meta name='apple-mobile-web-app-status-bar-style' content='default' />
       <meta name='apple-mobile-web-app-title' content={title} />
+      <meta name="google-adsense-account" content="ca-pub-2931858389753921">
 
       {/* 搜索引擎验证 */}
       {SEO_GOOGLE_SITE_VERIFICATION && (
